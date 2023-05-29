@@ -2,7 +2,7 @@
 import './index.css'
 
 const UserInfo = () => (
-  <div>
+  <div className="user-info-container">
     <img
       src="https://assets.ccbp.in/frontend/react-js/profile-img.png"
       alt="profile"
